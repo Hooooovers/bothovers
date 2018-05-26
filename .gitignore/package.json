@@ -1,0 +1,11 @@
+{
+  "name": "bothovers",
+  "version": "1.0.0",
+  "description":  "",
+  "main": "index.js"
+  "author": "Hovers"
+  "license":  "ISC"
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
